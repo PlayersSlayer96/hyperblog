@@ -9,8 +9,7 @@ p{
     color: darkgreen;
 }
 #container{
-    align-self: center;
-    align-items: center;
+    text-align: center;
     width: 70%;
     background-color: darkslategray;
     border-radius: 1em;
@@ -20,7 +19,7 @@ p{
     background: crimson;
     color: cornsilk;
     margin: 0;
-    padding: 0.5 em;
+    padding: 2%;
     text-align: left;
 }
 
