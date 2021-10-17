@@ -10,10 +10,23 @@ p{
 }
 #container{
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 70%;
     background-color: darkslategray;
     border-radius: 1em;
+}
+
+#cabecera{
+    background: crimson;
+    color: cornsilk;
+    margin: 0;
+    padding: 2%;
+    text-align: left;
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8 em;
 }
 
 #container h1{
