@@ -4,6 +4,7 @@ body{
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-p{
+p{  
+    font-size: larger;
     color: darkgreen;
 }
