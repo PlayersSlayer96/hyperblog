@@ -6,11 +6,11 @@ body{
 }
 p{  
     font-size: larger;
-    color: darkgreen;
+    color:cornsilk;
 }
 #container{
-    align-self: center;
-    align-items: center;
+    text-align: center;
+   
     width: 70%;
     background-color: darkslategray;
     border-radius: 1em;
