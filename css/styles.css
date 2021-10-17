@@ -16,6 +16,20 @@ p{
     border-radius: 1em;
 }
 
+#cabecera{
+    background: crimson;
+    color: cornsilk;
+    margin: 0;
+    padding: 0.5 em;
+    text-align: left;
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8 em;
+}
+
 #container h1{
     font-size: 20px;
 }
