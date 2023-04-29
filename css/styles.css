@@ -32,3 +32,7 @@ p{
 #container h1{
     font-size: 20px;
 }
+
+#banner{
+    height: 60;
+}
