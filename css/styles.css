@@ -1,4 +1,6 @@
 body{
+    display:flex;
+    flex-direction: column;
     text-align: center;
     color: gray;
     font-size: large;
@@ -8,7 +10,13 @@ p{
     font-size: larger;
     color:cornsilk;
 }
+#post{
+  display: flex;
+  flex-direction: column;
+}
+
 #container{
+    display:flex;
     text-align: center;
     width: 70%;
     background-color: darkslategray;
@@ -35,4 +43,10 @@ p{
 
 #banner{
     height: 60;
+}
+
+#footer{
+    padding: 5px;	
+    background: #765;
+    color: white; 
 }
