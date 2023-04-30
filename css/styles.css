@@ -43,8 +43,10 @@ p{
 
 #banner{
     height: 60;
-=======
+}
+
 #footer{
+    padding: 5px;	
     background: #765;
     color: white; 
 }
