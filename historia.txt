@@ -15,4 +15,6 @@ Ha mejorado un poco en su fortaleza mental con la ayuda de nuevos habitos, perso
 
 Ahora se encuentra estudiando para mejorar sus habilidades para el futuro de la programacion y el desarrollo en cloud.
 
-Estoy aprendiendo a hacer un rebase en Git
+Estoy aprendiendo a hacer un rebase en Git.
+
+Ahora modifico para hacer una nueva version.
