@@ -14,6 +14,7 @@ Puedo decir que hasta ahora he aprendido de git:
 - Git status para ver que cambios hay
 - Git pull/origin/push para actualizar cambios
 - Origin y upstream para repositorios remotos
+- Diferentes comandos utiles como stash, clean y cherry-pick
 
 
 Creado por el majestuoso y todopoderoso PlayersSlayer96
