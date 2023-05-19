@@ -15,3 +15,6 @@ Puedo decir que hasta ahora he aprendido de git:
 - Git pull/origin/push para actualizar cambios
 - Origin y upstream para repositorios remotos
 
+
+Creado por el majestuoso y todopoderoso PlayersSlayer96
+
